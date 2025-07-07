@@ -80,7 +80,7 @@ Web scraping was conducted on:
   - 39.1% Low Budget (<₹15K)
   - 3.6% Premium (>₹50K)
 - **Best Discounted Packages**:
-  - Found in **Kerala**, **Jaipur**, **Leh**, and **Srinagar** packages
+  - Found in **Kerala**, **Jaipur**, **Ladakh**, and **Srinagar** packages
   - Discounts between 30%–40% in some adventure and seasonal packages
 - **Average Offer Price for Cities**:
   - **Highest**: Gangtok
