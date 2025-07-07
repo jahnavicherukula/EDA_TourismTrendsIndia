@@ -65,17 +65,26 @@ Web scraping was conducted on:
 
 ## 📊 Analysis Highlights
 
-- **Popular Destinations**: Munnar, Manali, and Alleppey lead in frequency
-- **Pricing**: Most packages fall under ₹50,000; few exceed ₹1 lakh
-- **Trip Duration**: 3–5 day packages are most common
-- **Discounts**: Majority between 5%–15%, not strongly linked to duration
-- **Daily Cost Insights**:
-  - Highest: Guptakashi, Gangotri, Yamunotri
-  - Lowest: Kurnool, Puttaparthi, Nagarjuna Sagar
+- **Popular Destinations**: Munnar, Manali, and Alleppey are featured most frequently in tour packages, showing high customer interest.
+- **Most Popular Cities**:
+  - **High demand (frequently listed):** Manali, Munnar, Alleppey, Shimla, Gangtok, Srinagar
+  - **Premium cities (high cost per day):** Guptakashi, Gangotri, Yamunotri
+  - **Budget cities (low cost per day):** Kurnool, Puttaparthi, Nagarjuna Sagar
+- **Pricing**: Most travel packages are priced under ₹50,000, making them affordable for a wide range of travelers.
+- **Trip Duration**: 3–5 day packages are the most common, indicating a preference for short getaways.
+- **Discounts**:
+  - Majority fall between 5%–15%
+  - No strong correlation between trip duration and discount percentage
 - **Budget Distribution**:
   - 57.3% Mid-Range (₹15K–₹50K)
   - 39.1% Low Budget (<₹15K)
   - 3.6% Premium (>₹50K)
+- **Best Discounted Packages**:
+  - Found in **Kerala**, **Jaipur**, **Leh**, and **Srinagar** packages
+  - Discounts between 30%–40% in some adventure and seasonal packages
+- **Average Offer Price for Cities**:
+  - **Highest**: Gangtok
+  - **Affordable**: Ooty, Munnar, Alleppey
 
 ---
 
