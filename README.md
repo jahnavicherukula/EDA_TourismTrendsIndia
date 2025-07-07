@@ -43,7 +43,8 @@ Web scraping was conducted on:
 
 1. **Inspected HTML structure** of package listings
 2. **Selected appropriate tags** to extract:
-   - Destination names
+   - Package names
+   - Cities
    - Price (original & discounted)
    - Duration (days & nights)
    - Discount percentage
